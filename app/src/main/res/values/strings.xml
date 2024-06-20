@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ViewsTransformerExoPlayerDemo</string>
+    <string name="export_timer" translatable="false">Export started %d seconds ago.</string>
+
+</resources>
